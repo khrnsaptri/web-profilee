@@ -52,7 +52,7 @@ header ul li a:hover {
 }
 .banner {
 	height: 60vh;
-	background-image: url('https://storage.cloud.google.com/bucket_web-profile/img/banner.jpg');
+	background-image: url('https://storage.googleapis.com/bucket_web-profile/img/banner.jpg');
 	background-size: cover;
 	position: relative;
 	display: flex;
